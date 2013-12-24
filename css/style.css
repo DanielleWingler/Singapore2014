@@ -1,6 +1,6 @@
 body
 {
-background:url(images/bg.jpg) no-repeat center top #000000;
+background:url(http://i.imgur.com/MOjTWct.gif) no-repeat center top #000000;
 padding:0;
 font-family:Georgia, "Times New Roman", Times, serif;
 font-size:12px;
@@ -168,7 +168,7 @@ display:block;
 text-align:center;
 margin:0 18px 0 0;
 position:relative;
-background:url(images/photo_bg.gif) no-repeat center;
+background:url(http://i.imgur.com/1Lz2PA5.gif) no-repeat center;
 }
 img.photo{
 padding:6px 0 0 0;
@@ -198,7 +198,7 @@ float:left;
 text-align:center;
 line-height:25px;
 font-weight:bold;
-background:url(images/date_bg.gif) no-repeat center;
+background:url(http://i.imgur.com/tRdOzvW.gif) no-repeat center;
 }
 span.day{
 color:#855f35;
@@ -231,7 +231,7 @@ list-style:none;width: auto;height: auto;padding:0 0 8px 0; margin:0px;
 }
 ul.list li a{
 width: auto; padding:0 0 0 15px; margin:0;color:#696767;text-align:left; display:block;
-text-decoration:none;background:url(images/footer_bullet.gif) no-repeat left;
+text-decoration:none;background:url(http://i.imgur.com/TMyngo6.gif) no-repeat left;
 }
 ul.list li a:hover{
 text-decoration:underline;
