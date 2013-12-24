@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: Singapore2014
 markdown: redcarpet
 pygments: true
+baseurl: /Singapore2014
